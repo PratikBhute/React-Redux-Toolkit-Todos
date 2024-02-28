@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+body{
+  background-color: rgb(105, 133, 135);
+}
+.todos, form{
+  padding: 10px;
+}
+
+button{
+  margin-left: 12px;
+    background-color: green;
+    border-radius: 10px;
+    color: #fff;
+}
+.rem-btn{
+  background-color: red;
+
+}
+input{
+  width: 80%;
+ 
+  border-radius: 10px;
+  background: #f0a9a9;
+}
+
+h1{
+  color: brown;
+}
