@@ -9,7 +9,7 @@ const dispatch = useDispatch()
 
 const addToDoHandler = (e) => {
      e.preventDefault()
-     dispatch(addTodo( input))  //VALUE Bhejni hy to dispatch used kre
+     dispatch(addTodo(input))  //VALUE Bhejni hy to dispatch
      setInput('')
 }
 
